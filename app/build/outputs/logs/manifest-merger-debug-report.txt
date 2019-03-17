@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:10:5-52:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\jsing\.android\build-cache\80fe3c36be12c2577bcafaa0c71f6ea76a28a407\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\jsing\.android\build-cache\d03d8125f0b0080f78035884c3c50c43c148e54f\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\jsing\.android\build-cache\7a9e91c1ef671aacc4e981fd005b6348e4e988d7\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jsing\.android\build-cache\be033d85c8717af50bd7f0e23bcfde880b016d79\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\jsing\.android\build-cache\df159f1c3522aeb3500ff7840e335ef7d9daff18\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\jsing\.android\build-cache\658c7179b7dd69b32eeadd3b633efd78b67f9ff3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\jsing\.android\build-cache\ab5dc8c384fb933f0a77887fcfc253505d1f32f3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\jsing\.android\build-cache\5977538288312928166c9de18f7e69b1c3fb619d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\jsing\.android\build-cache\50ee8947f19123e2e08052c061b596fcc51c6668\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\jsing\.android\build-cache\ff2117c84b85f9df9dc52ab7a4490f0b5b8c0a2c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\jsing\.android\build-cache\a19fb273fbdf55007c9490085bbbf1f513f199ae\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\jsing\.android\build-cache\9b16928f2b93236ade3d41eb53deeeafb65262b3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\jsing\.android\build-cache\d30ae53f86c972bee2f90d64833b6d413f455b99\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\jsing\.android\build-cache\5851c3498ac0525335e7e304681709adde20967b\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:15:9-40
+	android:supportsRtl
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:16:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:18:9-20:35
+	android:value
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:20:13-32
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:19:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.MedSelector
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:24:13-40
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:23:13-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:32:9-33:45
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:33:13-42
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:32:19-94
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:35:9-36:41
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:36:13-38
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:35:19-100
+activity#com.google.android.gms.samples.vision.ocrreader.MedEntry
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:38:9-39:44
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:39:13-41
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:38:19-90
+activity#com.google.android.gms.samples.vision.ocrreader.ConfirmMed
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:41:9-42:45
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:42:13-42
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:41:19-92
+activity#com.google.android.gms.samples.vision.ocrreader.MedNotificationConfigurations
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:44:9-45:55
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:44:19-111
+activity#com.google.android.gms.samples.vision.ocrreader.MedScannedListings
+ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:47:9-48:71
+	android:label
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:48:13-68
+	android:name
+		ADDED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml:47:19-100
+uses-sdk
+INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\jsing\.android\build-cache\80fe3c36be12c2577bcafaa0c71f6ea76a28a407\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\jsing\.android\build-cache\d03d8125f0b0080f78035884c3c50c43c148e54f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\jsing\.android\build-cache\7a9e91c1ef671aacc4e981fd005b6348e4e988d7\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jsing\.android\build-cache\be033d85c8717af50bd7f0e23bcfde880b016d79\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.0] C:\Users\jsing\.android\build-cache\df159f1c3522aeb3500ff7840e335ef7d9daff18\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\jsing\.android\build-cache\658c7179b7dd69b32eeadd3b633efd78b67f9ff3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\jsing\.android\build-cache\ab5dc8c384fb933f0a77887fcfc253505d1f32f3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\jsing\.android\build-cache\5977538288312928166c9de18f7e69b1c3fb619d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\jsing\.android\build-cache\50ee8947f19123e2e08052c061b596fcc51c6668\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\jsing\.android\build-cache\ff2117c84b85f9df9dc52ab7a4490f0b5b8c0a2c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\jsing\.android\build-cache\a19fb273fbdf55007c9490085bbbf1f513f199ae\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\jsing\.android\build-cache\9b16928f2b93236ade3d41eb53deeeafb65262b3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\jsing\.android\build-cache\496743a7d732dddaff802b1ba1802c5050825ed1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\jsing\.android\build-cache\d30ae53f86c972bee2f90d64833b6d413f455b99\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\jsing\.android\build-cache\5851c3498ac0525335e7e304681709adde20967b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\jsing\.android\build-cache\658c7179b7dd69b32eeadd3b633efd78b67f9ff3\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsing\Desktop\Extracirricular\Fruitful Health\ocr-reader\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\jsing\.android\build-cache\d03d8125f0b0080f78035884c3c50c43c148e54f\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\jsing\.android\build-cache\d03d8125f0b0080f78035884c3c50c43c148e54f\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\jsing\.android\build-cache\d03d8125f0b0080f78035884c3c50c43c148e54f\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\jsing\.android\build-cache\d03d8125f0b0080f78035884c3c50c43c148e54f\output\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jsing\.android\build-cache\be033d85c8717af50bd7f0e23bcfde880b016d79\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jsing\.android\build-cache\be033d85c8717af50bd7f0e23bcfde880b016d79\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jsing\.android\build-cache\be033d85c8717af50bd7f0e23bcfde880b016d79\output\AndroidManifest.xml:22:13-58

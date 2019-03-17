@@ -1,0 +1,7 @@
+#Sun Dec 30 17:50:48 PST 2018
+base.0=C\:\\Users\\jsing\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3fc3a00829a586336dcd15444ed2a1255377604d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jsing\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3db70438836b4244d59b0ce1050e8f5de8af639f\\classes.dex
+base.1=C\:\\Users\\jsing\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3db70438836b4244d59b0ce1050e8f5de8af639f
+file.0=C\:\\Users\\jsing\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3fc3a00829a586336dcd15444ed2a1255377604d\\classes.dex

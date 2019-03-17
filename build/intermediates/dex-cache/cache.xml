@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jsing\Desktop\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\jsing\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3fc3a00829a586336dcd15444ed2a1255377604d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jsing\Desktop\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="121a24d4c8d8148f71506f7076dc5a043c43aa01">
+        <dex dex="C:\Users\jsing\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3db70438836b4244d59b0ce1050e8f5de8af639f\classes.dex" />
+    </item>
+
+</items>
